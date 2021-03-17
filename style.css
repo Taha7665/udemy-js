@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+ul, li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+ nav img{
+     height: 30px;
+ }
+ .nav2 ul{
+ display: flex;
+ }
+ .nav2 a{
+     color: rgb(136, 130, 130);
+ }
+
+ .search{
+     width: 700px ;
+ }
